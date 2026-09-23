@@ -211,6 +211,7 @@ body {
     height: 180px;
     object-fit: cover;
     display: block;
+    border-radius:7px;
 }
 
 .course-card h3 {
